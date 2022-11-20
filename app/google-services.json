@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304723882763",
+    "project_id": "firestore-afifawulandari057",
+    "storage_bucket": "firestore-afifawulandari057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304723882763:android:64cc330ae00d714a06a80e",
+        "android_client_info": {
+          "package_name": "com.afifawulandari_F55121057.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304723882763-hrtm9vg7f5umhhqt9pc7fv5614oi2jss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3wRndzbeSq6B6plpTiHrhviz9Kju6E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304723882763-hrtm9vg7f5umhhqt9pc7fv5614oi2jss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
